@@ -3,11 +3,7 @@
 # b bag : ball pen
 # c bag : pencil & ball pen
 
-bag_a = ['pencil']
-bag_b = ['ball pen']
-bag_c = ['pencil','ball pen']
 
-bags = [bag_a,bag_b,bag_c]
 def main(num):
     bag_a = ['pencil']
     bag_b = ['ball pen']
